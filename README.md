@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmiliaCMorales
-- 👀 I’m interested in CRM & Data Science
-- 🌱 I’m currently completing a CFG MOOCs Sprint - Intro to Web Dev
+- 👀 I’m interested in Data Science
+- 🌱 I have just completed a CFG Kickstarter Course - Intro to Data & SQL 
 
 <!---
 EmiliaCMorales/EmiliaCMorales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
